@@ -1,0 +1,227 @@
+[
+  {
+    "_id": "661161c506f2afe49e2104f3",
+    "index": 0,
+    "guid": "3aba8a4a-4045-495c-b66f-4315148a150b",
+    "isActive": false,
+    "balance": "$1,077.01",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "green",
+    "name": "Clarice Fletcher",
+    "gender": "female",
+    "company": "COMCUBINE",
+    "email": "claricefletcher@comcubine.com",
+    "phone": "+1 (943) 561-2910",
+    "address": "273 Anthony Street, Yukon, American Samoa, 9080",
+    "about": "Cillum pariatur consequat veniam cupidatat quis dolor eu cillum quis dolore consequat sint. Eu excepteur anim reprehenderit sit deserunt adipisicing sit amet. In enim deserunt eiusmod esse officia. Veniam sit ad est sit aliquip ipsum consequat Lorem ipsum laboris. Dolor ad cillum id enim. Dolore aliquip amet esse pariatur nulla aliquip duis ea incididunt ullamco dolore fugiat ex.\r\n",
+    "registered": "2015-07-29T03:34:32 -07:00",
+    "latitude": -41.167402,
+    "longitude": 96.032809,
+    "tags": [
+      "nisi",
+      "laborum",
+      "ex",
+      "in",
+      "sit",
+      "laboris",
+      "nisi"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Sheree Booker"
+      },
+      {
+        "id": 1,
+        "name": "Ward Mooney"
+      },
+      {
+        "id": 2,
+        "name": "Mclean Daniels"
+      }
+    ],
+    "greeting": "Hello, Clarice Fletcher! You have 3 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "661161c5da5e231812262d92",
+    "index": 1,
+    "guid": "683dc35f-b049-4e67-b17f-1b20fe090694",
+    "isActive": true,
+    "balance": "$1,837.84",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "eyeColor": "green",
+    "name": "Campos Delgado",
+    "gender": "male",
+    "company": "TETAK",
+    "email": "camposdelgado@tetak.com",
+    "phone": "+1 (836) 482-3799",
+    "address": "605 Ingraham Street, Thornport, Puerto Rico, 8048",
+    "about": "Adipisicing anim aliquip mollit dolore elit nostrud anim est cillum Lorem id consequat velit consequat. Irure labore incididunt nulla ad eiusmod consequat esse proident eu qui et consequat veniam laboris. Anim minim exercitation eiusmod amet aute proident ullamco anim labore aliqua laborum aliqua. Aute laboris excepteur Lorem commodo sint Lorem magna aliqua. Mollit commodo non non dolor eu ut duis aliquip amet sunt veniam. Amet duis ad aliquip do velit exercitation elit elit ea laboris nisi.\r\n",
+    "registered": "2022-01-15T09:46:43 -07:00",
+    "latitude": -23.448577,
+    "longitude": 42.484304,
+    "tags": [
+      "voluptate",
+      "magna",
+      "occaecat",
+      "sunt",
+      "non",
+      "culpa",
+      "adipisicing"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Cindy James"
+      },
+      {
+        "id": 1,
+        "name": "Etta Knowles"
+      },
+      {
+        "id": 2,
+        "name": "Jennifer Mathis"
+      }
+    ],
+    "greeting": "Hello, Campos Delgado! You have 2 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "661161c5d3c5cf605c85950a",
+    "index": 2,
+    "guid": "bfe8ed36-9d6f-4292-8742-8207f7beff76",
+    "isActive": true,
+    "balance": "$1,992.32",
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "eyeColor": "brown",
+    "name": "Autumn Garner",
+    "gender": "female",
+    "company": "POWERNET",
+    "email": "autumngarner@powernet.com",
+    "phone": "+1 (984) 563-3803",
+    "address": "123 Aviation Road, Hondah, Utah, 3409",
+    "about": "Pariatur eiusmod occaecat eu dolore do incididunt ullamco laboris. Sint consequat reprehenderit velit esse dolore quis. Sunt in cupidatat quis occaecat sit sit aliqua dolore non officia.\r\n",
+    "registered": "2018-08-05T02:52:48 -07:00",
+    "latitude": 34.238914,
+    "longitude": 129.416247,
+    "tags": [
+      "officia",
+      "commodo",
+      "qui",
+      "reprehenderit",
+      "exercitation",
+      "labore",
+      "culpa"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Mcintyre Haynes"
+      },
+      {
+        "id": 1,
+        "name": "Hilda Elliott"
+      },
+      {
+        "id": 2,
+        "name": "Hall Mcknight"
+      }
+    ],
+    "greeting": "Hello, Autumn Garner! You have 6 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "661161c598e2851d704f2051",
+    "index": 3,
+    "guid": "7912e623-be2b-42d4-9ef4-d92f33d756b9",
+    "isActive": true,
+    "balance": "$1,058.12",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "brown",
+    "name": "Nolan Mcdonald",
+    "gender": "male",
+    "company": "ZORROMOP",
+    "email": "nolanmcdonald@zorromop.com",
+    "phone": "+1 (937) 569-2718",
+    "address": "784 Dorset Street, Lowell, District Of Columbia, 411",
+    "about": "Aliqua adipisicing nostrud laborum anim ullamco. Deserunt minim pariatur cupidatat cillum tempor non sit fugiat. Laborum exercitation sit eiusmod ullamco nostrud eiusmod in ex ex excepteur est anim enim. Quis voluptate do anim et deserunt ex voluptate veniam eu irure. Elit laborum qui ipsum exercitation culpa consectetur ex amet deserunt sunt magna.\r\n",
+    "registered": "2014-04-17T07:07:35 -07:00",
+    "latitude": -74.743367,
+    "longitude": -1.588108,
+    "tags": [
+      "qui",
+      "Lorem",
+      "ex",
+      "mollit",
+      "labore",
+      "non",
+      "occaecat"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Parsons Sanford"
+      },
+      {
+        "id": 1,
+        "name": "Marci Duke"
+      },
+      {
+        "id": 2,
+        "name": "Bridges Mejia"
+      }
+    ],
+    "greeting": "Hello, Nolan Mcdonald! You have 1 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "661161c53c05ad2ded0527af",
+    "index": 4,
+    "guid": "2edef367-7952-4431-930c-5ad23ac11124",
+    "isActive": true,
+    "balance": "$3,187.81",
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "eyeColor": "brown",
+    "name": "Justice Holmes",
+    "gender": "male",
+    "company": "HATOLOGY",
+    "email": "justiceholmes@hatology.com",
+    "phone": "+1 (935) 546-3887",
+    "address": "413 Hamilton Avenue, Jackpot, Northern Mariana Islands, 9783",
+    "about": "Pariatur consequat dolore ullamco reprehenderit fugiat nulla consectetur aliqua excepteur aute adipisicing commodo. Labore dolor esse consectetur labore occaecat magna quis nisi. Veniam veniam anim ea incididunt eiusmod adipisicing duis fugiat nulla amet pariatur nisi. Magna enim duis exercitation officia ad ipsum dolor non magna mollit est sint in sit. Aliquip laborum ullamco exercitation qui nulla duis labore.\r\n",
+    "registered": "2023-12-20T09:05:54 -07:00",
+    "latitude": 82.770044,
+    "longitude": 103.800578,
+    "tags": [
+      "velit",
+      "Lorem",
+      "ea",
+      "minim",
+      "cupidatat",
+      "tempor",
+      "qui"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Newman Olson"
+      },
+      {
+        "id": 1,
+        "name": "Robert Kemp"
+      },
+      {
+        "id": 2,
+        "name": "Walter Leblanc"
+      }
+    ],
+    "greeting": "Hello, Justice Holmes! You have 5 unread messages.",
+    "favoriteFruit": "banana"
+  }
+]
